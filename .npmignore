@@ -1,15 +1,10 @@
 ## Project Specific
-dist
 .tmp
-
-## Yarn
-yarn.lock
 
 ## Mac OS
 .DS_Store
 
 ## Node JS
-
 # Logs
 logs
 *.log

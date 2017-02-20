@@ -1,4 +1,3 @@
 #!/usr/bin/env node
-'use strict';
-var main = require('../build').default
-main()
+'use strict'
+require('../dist/main.js')

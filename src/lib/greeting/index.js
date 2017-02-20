@@ -1,0 +1,1 @@
+export { greeting } from './greeting'
