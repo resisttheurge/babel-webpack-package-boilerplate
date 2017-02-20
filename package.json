@@ -1,6 +1,6 @@
 {
   "name": "babel-webpack-package-boilerplate",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "boilerplate for building an npm package with next-gen javascript transpilation through babel and tree-shaking compilation through webpack",
   "bin": {
     "babel-webpack-package-boilerplate": "./bin/main.js"
